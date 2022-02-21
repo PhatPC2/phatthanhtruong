@@ -240,7 +240,7 @@ footer{
     position: relative;
     clear: both;
     top: -650px;
-    min-height: 200%;
+    min-height: 70%;
 }
 .thongtin a:hover{
     color:rebeccapurple
